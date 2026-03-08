@@ -29,3 +29,9 @@ These experiments illustrate concepts relevant to:
 - robotics perception
 - probabilistic state estimation
 - sensor uncertainty modeling
+
+## Motivation
+
+Understanding sensor uncertainty and state-based behaviour is fundamental
+for robotics and cyber-physical systems, where real-world measurements are
+noisy and system behaviour must be structured under uncertainty.

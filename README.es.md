@@ -27,3 +27,7 @@ Estos experimentos ilustran conceptos relevantes para:
 - Percepción robótica
 - Estimación probabilística del estado
 - Modelado de la incertidumbre de los sensores
+
+## Motivación
+
+Comprender la incertidumbre de los sensores y el comportamiento basado en el estado es fundamental para la robótica y los sistemas ciberfísicos, donde las mediciones del mundo real son ruidosas y el comportamiento del sistema debe estructurarse en condiciones de incertidumbre.
