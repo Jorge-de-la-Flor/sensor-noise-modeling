@@ -66,7 +66,9 @@ if __name__ == "__main__":
     
     plt.plot(measurements, label="Measurements", alpha=0.6)
     plt.plot(estimates, label="Kalman estimate")
-
+    plt.xlabel("Time step")
+    plt.ylabel("Value")
+    
     plt.legend()
     plt.title("Kalman Filter Estimation")
     plt.savefig("kalman_estimate.png")
