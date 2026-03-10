@@ -74,16 +74,17 @@ Cada script genera mediciones simuladas de sensores con ruido y visualiza el pro
 ```bash
 sensor-uncertainty-lab
 ├─ .python-version
+├─ LICENSE
 ├─ README.es.md
 ├─ README.md
 ├─ assets
-│ ├─ kalman_estimate.png
-│ └─ sensor_noise.png
+│  ├─ kalman_estimate.png
+│  └─ sensor_noise.png
 ├─ pyproject.toml
 ├─ src
-│ ├─ imu_noise_simulation.py
-│ ├─ kalman_filter_1d.py
-│ └─ sensor_fusion_demo.py
+│  ├─ imu_noise_simulation.py
+│  ├─ kalman_filter_1d.py
+│  └─ sensor_fusion_demo.py
 └─ uv.lock
 ```
 

@@ -80,6 +80,7 @@ Each script generates simulated noisy sensor measurements and visualises the res
 ```bash
 sensor-uncertainty-lab
 ├─ .python-version
+├─ LICENSE
 ├─ README.es.md
 ├─ README.md
 ├─ assets
