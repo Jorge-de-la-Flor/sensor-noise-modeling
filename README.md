@@ -2,14 +2,11 @@ English | [Español](README.es.md)
 
 # Sensor Noise Modeling
 
-Minimal experiments illustrating probabilistic sensor noise and
-state estimation in robotics systems.
+Minimal experiments illustrating probabilistic sensor noise and state estimation in robotics systems.
 
-This repository explores simple probabilistic models for sensor noise
-commonly encountered in robotics and embedded perception systems.
+This repository explores simple probabilistic models for sensor noise commonly encountered in robotics and embedded perception systems.
 
-The examples demonstrate how noisy measurements can be modeled,
-filtered, and fused to improve state estimation.
+The examples demonstrate how noisy measurements can be modeled, filtered, and fused to improve state estimation.
 
 ## Contents
 
@@ -37,9 +34,7 @@ These experiments illustrate engineering concepts relevant to:
 
 ## Motivation
 
-Understanding sensor uncertainty and state-based behaviour is fundamental
-for robotics and cyber-physical systems, where real-world measurements are
-noisy and system behaviour must be structured under uncertainty.
+Understanding sensor uncertainty and state-based behaviour is fundamental for robotics and cyber-physical systems, where real-world measurements are noisy and system behaviour must be structured under uncertainty.
 
 ## Method
 
@@ -51,12 +46,9 @@ The experiments include:
 - Kalman filtering for signal estimation  
 - basic sensor fusion across noisy measurements  
 
-These simplified implementations aim to illustrate the core ideas
-behind probabilistic state estimation in cyber-physical systems.
+These simplified implementations aim to illustrate the core ideas behind probabilistic state estimation in cyber-physical systems.
 
-These examples are intentionally minimal and are designed to highlight
-the conceptual behaviour of probabilistic filters rather than production
-sensor processing pipelines.
+These examples are intentionally minimal and are designed to highlight the conceptual behaviour of probabilistic filters rather than production sensor processing pipelines.
 
 ## Running the examples
 

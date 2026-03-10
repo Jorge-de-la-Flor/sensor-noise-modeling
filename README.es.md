@@ -34,13 +34,11 @@ Estos experimentos ilustran conceptos de ingeniería relevantes para:
 
 ## Motivación
 
-Comprender la incertidumbre del sensor y el comportamiento basado en el estado es fundamental
-para la robótica y los sistemas ciberfísicos, donde las mediciones reales son ruidosas y el comportamiento del sistema debe estructurarse bajo incertidumbre.
+Comprender la incertidumbre del sensor y el comportamiento basado en el estado es fundamental para la robótica y los sistemas ciberfísicos, donde las mediciones reales son ruidosas y el comportamiento del sistema debe estructurarse bajo incertidumbre.
 
 ## Método
 
-El repositorio implementa simulaciones probabilísticas simples del ruido del sensor
-y procesos de estimación del estado comunes en la robótica y los sistemas de percepción embebidos.
+El repositorio implementa simulaciones probabilísticas simples del ruido del sensor y procesos de estimación del estado comunes en la robótica y los sistemas de percepción embebidos.
 
 Los experimentos incluyen:
 
